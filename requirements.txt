@@ -1,0 +1,11 @@
+streamlit
+yfinance
+plotly
+python-dotenv
+openai
+Pillow
+requests
+pandas
+numpy
+reportlab
+kaleido

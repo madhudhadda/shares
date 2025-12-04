@@ -1,0 +1,13 @@
+Testing symbol: TCS.NS
+Info has 170 keys.
+Has 'symbol': True
+Has 'regularMarketPrice': True
+Has 'marketCap': True
+Has 'longName': True
+Has 'currentPrice': True
+First 10 keys: ['address1', 'address2', 'city', 'zip', 'country', 'phone', 'fax', 'website', 'industry', 'industryKey']
+History fetched successfully. Shape: (251, 7)
+News fetched. Count: 10
+Income stmt fetched. Empty: False
+Balance sheet fetched. Empty: False
+Cashflow fetched. Empty: False
